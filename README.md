@@ -94,4 +94,4 @@ Through this project, I gained practical experience in:
 
 **Veda**
 
-This project was completed as part of my Data Science / Machine Learning internship learning journey.
+This project was completed as part of my Data Science  internship learning journey.
