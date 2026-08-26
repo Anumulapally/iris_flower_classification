@@ -1,4 +1,3 @@
-# iris_flower_classification
 # 🌸 Iris Flower Classification
 
 ## 📌 Project Overview
@@ -69,6 +68,17 @@ Iris-Classification/
 
 1. Clone or download this repository.
 2. Open the project folder in VS Code.
+3. Install the required libraries:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+4. Run the Python file:
+
+```bash
+python iris_classification.py
+```
 
 ## 📚 Learning Outcome
 
@@ -82,6 +92,6 @@ Through this project, I gained practical experience in:
 
 ## 👩‍💻 Author
 
-
+**Veda**
 
 This project was completed as part of my Data Science / Machine Learning internship learning journey.
